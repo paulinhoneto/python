@@ -1,2 +1,2 @@
-# python-for-hackers
+# Python For Hackers
 scripts python for hackers
